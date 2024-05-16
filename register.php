@@ -33,9 +33,9 @@
         <input type="checkbox" id="english" name="languages[]" value="english" >
         <label for="english">English</label><br>
         <input type="checkbox" id="hindi" name="languages[]" value="hindi" >
-        <label for="spanish">Hindi</label><br>
+        <label for="hindi">Hindi</label><br>
         <input type="checkbox" id="punjabi" name="languages[]" value="punjabi" >
-        <label for="french">punjabi</label><br><br>
+        <label for="punjabi">punjabi</label><br><br>
         
         <button type="submit">Register</button>
     </form>
